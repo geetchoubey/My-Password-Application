@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/etNewPass"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberPassword"
+        android:hint="New Password"
+        android:maxLength="5" />
+
+    <EditText
+        android:id="@+id/etConfirmPass"
+        android:layout_width="fill_parent"
+        android:hint="Confirm Password"
+        android:layout_height="wrap_content"
+        android:inputType="numberPassword"
+        android:maxLength="5" />
+
+</LinearLayout>

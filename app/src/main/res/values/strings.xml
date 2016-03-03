@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Password App</string>
+    <string name="change_pass">Change Password</string>
+    <string name="clearall">Clear All Entries</string>
+</resources>
