@@ -13,7 +13,7 @@ Q : How to add a new entry?</br>
 A : Click on the Floating Action Button to Add/Modify an entry.</br>
 Q : How to modify an entry?</br>
 A : To change the username of password, just add a new entry with the same domain name.
-Domain Name works as the key value. Adding multiple values for the same domain name will change the user names and passwords.
+Domain Name works as the key value. Adding multiple values for the same domain name will change the user names and passwords.</br>
 Q : How to delete a specific entry?</br>
 A : To delete an entry, long press on the item.</br>
 Q : How to change the login password?</br>
